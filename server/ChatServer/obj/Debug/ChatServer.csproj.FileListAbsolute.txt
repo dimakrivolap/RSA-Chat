@@ -1,0 +1,48 @@
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\учеба\курсач ксис\chat\ChatServer\bin\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat\ChatServer\bin\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\учеба\курсач ксис\chat\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat\server\ChatServer\bin\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat\server\ChatServer\bin\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\учеба\курсач ксис\chat\server\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\bin\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\bin\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\учеба\курсач ксис\chat  stabil1.0\server\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  2\server\ChatServer\bin\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  2\server\ChatServer\bin\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\учеба\курсач ксис\chat  2\server\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  3\server\ChatServer\bin\Debug\ChatServer.exe
+D:\учеба\курсач ксис\chat  3\server\ChatServer\bin\Debug\ChatServer.pdb
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\учеба\курсач ксис\chat  3\server\ChatServer\obj\Debug\ChatServer.frmChatServer.resources
+C:\projects\RSA chat\server\ChatServer\bin\Debug\ChatServer.exe
+C:\projects\RSA chat\server\ChatServer\bin\Debug\ChatServer.pdb
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.frmChatServer.resources
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.exe
+C:\projects\RSA chat\server\ChatServer\obj\Debug\ChatServer.pdb
